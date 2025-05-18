@@ -1,0 +1,6 @@
+pillow
+tqdm
+torch
+pandas
+peft
+torchvision
